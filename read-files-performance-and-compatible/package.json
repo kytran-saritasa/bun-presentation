@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "bun-read": "bun bun.js",
+    "node-read": "node node.js",
+    "bun-compa": "bun node.js",
+    "node-compa": "node bun.js"
+  }
+}

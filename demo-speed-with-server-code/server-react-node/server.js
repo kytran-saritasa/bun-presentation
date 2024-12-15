@@ -1,3 +1,5 @@
+// NODE_ENV=production node server.js
+
 "use strict";
 var v6 = Object.create;
 var CF = Object.defineProperty;

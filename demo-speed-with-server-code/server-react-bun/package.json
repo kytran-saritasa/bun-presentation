@@ -1,7 +1,6 @@
 {
-  "name": "demo-speed-with-server-code",
+  "name": "server-react-bun",
   "version": "1.0.0",
-  "main": "bun.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
